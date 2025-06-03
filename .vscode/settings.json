@@ -1,5 +1,8 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
-    ]
+    ],
+    "files.associations": {
+        "Super Trunfo : Lógica do Jogo (Nível Mestre).C": "cpp"
+    }
 }
